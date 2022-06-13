@@ -1,0 +1,24 @@
+{
+  "name": "server_basic",
+  "version": "1.0.0",
+  "description": "��n\u0000o\u0000d\u0000e\u0000 \u00000�\b� \u0000��X�0�\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjsrbkR/nodejs.git"
+  },
+  "keywords": [
+    "paractice",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjsrbkR/nodejs/issues"
+  },
+  "homepage": "https://github.com/tjsrbkR/nodejs#readme"
+}
